@@ -4,3 +4,5 @@ Git is free distributed software.
 
 Git tracks changes of files.
 
+Git tracks changes? why and what's difference with SVN?
+
